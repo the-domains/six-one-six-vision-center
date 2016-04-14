@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Six One Six Vision Center]]></title>
+        <description><![CDATA[Six One Six Vision Center]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 13:58:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Doctors]]></title>
+            <description><![CDATA[<article><h1>Our Doctors</h1><p>Dr. Ryan Huber was born and raised in the Treasure Valley, attending Eagle Middle and Eagle High school. He received his undergraduate degree from The College of Idaho, where he was a four-year letterman in soccer. After graduating from C of I, he moved to Boston to attend The New England College of Optometry. After graduation, he returned to the Treasure Valley and has been practicing in the area since. He is experienced in numerous aspects of primary eye care, including contact lenses, dry eye, cataract co-management, and ocular disease management.    </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/906687fe3de726e0b17f4caa50c66a429bd20772.jpg"></article>]]></description>
+            <link>undefinedour-doctors/index.html</link>
+            <guid isPermaLink="false">f29fa61b-fbd4-4575-8a42-2908cbbc522e</guid>
+            <pubDate>Thu, 14 Apr 2016 13:57:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
