@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Six One Six Vision Center]]></title>
         <description><![CDATA[Six One Six Vision Center]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/six-one-six-vision-center/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 13:58:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 14:02:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/six-one-six-vision-center/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/six-one-six-vision-center/327a6a77-56d7-4c5b-837d-4bf095db1aba/index.html</link>
+            <guid isPermaLink="false">327a6a77-56d7-4c5b-837d-4bf095db1aba</guid>
+            <pubDate>Tue, 19 Jul 2016 14:02:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Doctors]]></title>
-            <description><![CDATA[<article><h1>Our Doctors</h1><p>Dr. Ryan Huber was born and raised in the Treasure Valley, attending Eagle Middle and Eagle High school. He received his undergraduate degree from The College of Idaho, where he was a four-year letterman in soccer. After graduating from C of I, he moved to Boston to attend The New England College of Optometry. After graduation, he returned to the Treasure Valley and has been practicing in the area since. He is experienced in numerous aspects of primary eye care, including contact lenses, dry eye, cataract co-management, and ocular disease management.    </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/906687fe3de726e0b17f4caa50c66a429bd20772.jpg"></article>]]></description>
-            <link>undefinedour-doctors/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97325c9c-6459-49a1-afc2-d97cea537926.jpg">]]></description>
+            <link>https://thegrid.ai/six-one-six-vision-center/our-doctors/index.html</link>
             <guid isPermaLink="false">f29fa61b-fbd4-4575-8a42-2908cbbc522e</guid>
             <pubDate>Thu, 14 Apr 2016 13:57:44 GMT</pubDate>
         </item>
